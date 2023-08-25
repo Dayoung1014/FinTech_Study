@@ -13,9 +13,9 @@ end_date = datetime.date(2023, 8, 22)
 
 
 # Streamlit title
-st.title('사전 학습 2강.')
+#st.title('사전 학습 2강.')
 st.header('주가 데이터 시각화 (w. Streamlit)')
-st.text('* [사전 학습 1강] - [과제] - [주가 데이터 시각화] 코드 응용')
+#st.text('* [사전 학습 1강] - [과제] - [주가 데이터 시각화] 코드 응용')
 st.header('')
 
 st.divider()
